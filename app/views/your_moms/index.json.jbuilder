@@ -1,0 +1,1 @@
+json.array! @your_moms, partial: 'your_moms/your_mom', as: :your_mom
